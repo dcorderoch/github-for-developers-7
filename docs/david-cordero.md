@@ -4,3 +4,4 @@
 **Favorite Food: ** Pizza
 **Hobby: ** Watching Movies
 **Favorite Color: ** Blue
+**Height: ** 1.76m
